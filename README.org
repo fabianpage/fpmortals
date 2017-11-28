@@ -19,7 +19,3 @@ it needs to be easy to learn and use by the typical OOP developer.
 If you are trying to learn FP, you can help out by contributing
 feedback of what helped you as you progress in your journey, and by
 reading early drafts of this book.
-
-If you are an expert in FP, you can help out by assisting the author
-in his journey to understand, e.g. answering questions in
-[[https://github.com/fommil/drone-dynamic-agents/issues?q=is%3Aissue+is%3Aopen+label%3A%22needs+guru%22][drone-dynamic-agents]].
